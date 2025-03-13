@@ -83,3 +83,15 @@ if st.button("Enter"):
                 st.info("⚠️ Moderate Password - Consider adding more security features.")
             else:
                 st.error("⚠️ Weak Password - Improve it using the suggestions above.")
+
+
+
+st.markdown("<br><br><br><br><br><br><br>", unsafe_allow_html=True)
+st.write("-----------------------------------")
+
+st.markdown("""
+
+   Built with ❤️ by [Syed Muhammad Suleman](https://www.linkedin.com/in/syed-muhammad-suleman-a3784b2ab/)
+   \n All Rights Reserved ©️ 2025
+             
+            """)
