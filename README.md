@@ -31,4 +31,4 @@ Additionally, it checks if the password is on a **common blacklist** and provide
 ## 🚀 How to Run:
 ```bash
 pip install streamlit
-streamlit run main.py
+streamlit run password.py
